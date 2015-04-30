@@ -49,10 +49,9 @@ End Function
 OB "Firefox","www.kroger.com"
 'Registration "qtpuft01@gmail.com","qtpuft01@gmail.com","abcd1234","abcd1234","Maryland"
 SignIn "qtppnt01@gmail.com","abcd1234"
-wait 10
+wait 5
 SignOut
 wait 5
 CB 
-
 
 
